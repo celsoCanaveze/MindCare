@@ -1,0 +1,6 @@
+@MindCareWeb_HostAddress = http://localhost:5058
+
+GET {{MindCareWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
